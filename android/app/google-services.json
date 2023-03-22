@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "338321878572",
+    "project_id": "quiz-mcq-app",
+    "storage_bucket": "quiz-mcq-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338321878572:android:143cab832a68096710eb89",
+        "android_client_info": {
+          "package_name": "com.shubham.quiz_mcq_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338321878572-uc4q1qdg4t0h622d3prn3tmf5c74dsvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrLJU9G9H5hmGlzqyBzr3n9x4Z8xQbP8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338321878572-uc4q1qdg4t0h622d3prn3tmf5c74dsvh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
